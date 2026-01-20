@@ -1,6 +1,6 @@
-<!-- ================== TYPING ANIMATION HEADER ================== -->
+<!-- ================== TYPING ANIMATION HEADER (RED) ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=red&center=true&vCenter=true&width=750&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=720&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
 </p>
 
 <!-- ================== TERMINAL INTRO ================== -->
@@ -20,9 +20,19 @@ Break systems • Understand deeply • Secure properly
 # 💀 0xW41th | Adwaith S
 <p align="center"><i>Offensive Security • CVE Research • Malware Analysis • CTF</i></p>
 
-<!-- ================== ANIMATED NEON DIVIDER ================== -->
+<!-- ================== ANIMATED RED DIVIDER ================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6">
+    <defs>
+      <linearGradient id="redline">
+        <stop offset="0%" stop-color="#ff0000">
+          <animate attributeName="offset" values="0;1;0" dur="2s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#ff0000" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="6" fill="url(#redline)" />
+  </svg>
 </p>
 
 ## 👋 About Me 🧑‍💻
@@ -36,8 +46,9 @@ I actively work on:
 - 📱 Malware analysis (Android)
 - 🎯 CTF challenges & red-team labs
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## ⚔️ What I Do
@@ -47,8 +58,9 @@ I actively work on:
 - 🦠 Malware analysis
 - 🎯 CTF problem solving (enum, privesc, exploitation)
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 📄 Featured Publications 📚
@@ -63,8 +75,9 @@ I actively work on:
 
 👉 All articles: https://0xw41th.medium.com/
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🌱 Currently Learning
@@ -74,8 +87,9 @@ I actively work on:
 - 🔴 Red team methodologies
 - 📡 Wireless & Bluetooth attacks
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🤝 Open to Collaborate On
@@ -84,8 +98,9 @@ I actively work on:
 - 🧪 Vulnerability research
 - ⚔️ Red team labs & CTFs
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 💬 Ask Me About
@@ -97,64 +112,70 @@ I actively work on:
 
 ⚡ **Fun fact:** I enjoy breaking systems more than configuring them 😄
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🧰 Tech Stack 🛠️
 
 ### 💻 Languages & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,javascript&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,javascript&theme=dark" />
 </p>
 
 ### 📄 Writeups & Docs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=markdown" />
+  <img src="https://skillicons.dev/icons?i=markdown&theme=dark" />
 </p>
 
 ### 🖥️ Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" />
 </p>
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🛠️ Security Tools
 
 Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🧬 Research Highlights 🔬
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CVE-2025--65883-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/CVE-2025--65883-red?style=for-the-badge" />
 </p>
 
-- 🏆 **CVE-2025-65883 – Remote Code Execution in Genexis Router**
+- 🏆 **CVE-2025-65883 – Remote Code Execution**
   - Responsible disclosure
   - Root cause analysis
   - Real-world impact
   - Public Medium write-up
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 🌐 Connect With Me 🌍
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/adwaith-sec"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://0xw41th.medium.com/"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://tryhackme.com/p/0xW41th"><img src="https://skillicons.dev/icons?i=linux" /></a>
+  <a href="https://www.linkedin.com/in/adwaith-sec"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+  <a href="https://0xw41th.medium.com/"><img src="https://skillicons.dev/icons?i=devto&theme=dark" /></a>
+  <a href="https://tryhackme.com/p/0xW41th"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
 </p>
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 📊 GitHub Stats 📈
@@ -168,13 +189,14 @@ Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xW41th&layout=compact&theme=radical" />
 </p>
 
+<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+  <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
 ## 👁️ Profile Views 👀
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=cyan" />
+  <img src="https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=red" />
 </p>
 
 ---
