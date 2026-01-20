@@ -8,41 +8,40 @@ Break • Understand • Exploit • Secure
 ## 👋 About Me
 
 Hi, I'm **Adwaith (0xW41th)** 👋  
-**Offensive Security Enthusiast | CTF Player | Malware Analyst | IoT & Firmware Researcher**
+**Offensive Security Researcher | CTF Player | Malware Analyst | IoT Firmware Researcher**
 
-I focus on breaking real systems to understand them deeply and help secure them better.
+I focus on real-world exploitation, deep analysis, and ethical disclosure. My work includes published vulnerabilities, hands-on CTF walkthroughs, and practical security research. :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🔴 What I Do
 
 ### 🧪 Current Work
-- IoT firmware reversing & router exploitation  
-- Android banking malware analysis  
-- CTF challenges (web, reversing, pwn)  
-- Real-world vulnerability research (CVE assigned)
+- Real-world vulnerability research & CVE-class exploits  
+- IoT firmware analysis & router exploitation  
+- Android malware analysis  
+- CTF challenges (web, enumeration, privilege escalation)
+
+### 📄 Featured Publications
+- **My first CVE: CVE-2025-65883**, RCE in Genexis router (ethical disclosure & technical overview) :contentReference[oaicite:2]{index=2}  
+- **CTF write-ups**: Boot→Shell→Root, Biohazard CTF, OSINT CTF walkthroughs on Medium :contentReference[oaicite:3]{index=3}
 
 ### 🌱 Currently Learning
-- Binary exploitation (stack, heap, ROP)
-- Advanced web exploitation
-- Kernel & driver reversing
-- Red team methodologies
+- Advanced binary exploitation (stack, heap, ROP)  
+- Kernel & driver reversing  
+- Red team methodologies  
+- Wireless & Bluetooth attacks
 
-### 🤝 Open to Collaborate
-- Open-source security tools
-- Malware analysis & reversing
-- Red team research projects
-
-### 🆘 Looking for Help With
-- Advanced binary exploitation
-- Kernel reversing
-- Bluetooth & wireless research
+### 🤝 Open to Work On
+- Collaborative security tooling  
+- Vulnerability research projects  
+- CTF & Red Team labs
 
 ### 💬 Ask Me About
-- Web exploitation
-- Malware reversing
-- Router / IoT hacking
-- CTF strategies
+- CTF strategies  
+- Malware reversing  
+- Router & firmware hacking  
+- Vulnerability discovery
 
 ⚡ **Fun fact:** I enjoy breaking routers more than configuring them 😄
 
@@ -57,37 +56,43 @@ I focus on breaking real systems to understand them deeply and help secure them 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Writeups & Docs
+### Writeups & Analysis
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ## 🛠️ Security Tools
 
-- Burp Suite
-- Nmap
-- Ghidra
-- x64dbg / GDB
-- Binwalk
-- Wireshark
-- Metasploit
-- ADB
+- **Burp Suite** – Web security testing  
+- **Nmap** – Network enumeration  
+- **Ghidra** – Binary & firmware reversing  
+- **x64dbg / GDB** – Debugging  
+- **Binwalk** – Firmware extraction  
+- **Wireshark** – Packet analysis  
+- **Metasploit** – Exploit testing  
+- **ADB** – Android analysis
 
 ---
 
-## 🧬 Research & Highlights
+## 🧬 Research Highlights
 
-- 🏆 **CVE Assigned** — Router stored command injection vulnerability
-- 🦠 **Android Banking Malware Analysis**
-- 📡 **IoT Firmware Research (UART, binwalk, Ghidra, GDB)**
-- 🧪 Multiple CTF writeups (web, rev, pwn)
+### 🪲 CVE & Vulnerabilities
+- 🏆 **CVE-2025-65883** – Remote Code Execution in Genexis Platinum P4410 Router (ethical disclosure & root exploitation possibilities) :contentReference[oaicite:4]{index=4}
+
+### 📖 Published Security Walkthroughs (Medium)
+- Boot→Shell→Root: Privilege Escalation on TryHackMe Lookup CTF :contentReference[oaicite:5]{index=5}  
+- Surviving the Nightmare: Biohazard CTF Adventure :contentReference[oaicite:6]{index=6}  
+- OSINT CTF Walkthrough: TryHackMe Technocrat :contentReference[oaicite:7]{index=7}
+
+See more on **Medium** 🔗 below.
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaith-sec)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@0xw41th)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xW41th)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adwaith-sec)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://0xw41th.medium.com/)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/0xW41th)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwaith.sec@gmail.com)
 
 ---
@@ -99,8 +104,15 @@ I focus on breaking real systems to understand them deeply and help secure them 
 
 ---
 
+## 👁️ Profile Views
+![Visitors](https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=cyan)
+
+---
+
 > ⚔️ *“The best defense begins with understanding the offense.”*
 
 ---
 
-### ⭐ If you like my work, star the repos & follow
+### ⭐ If you like my work  
+Star my repos & follow for more security research 🔥
+
