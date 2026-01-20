@@ -1,6 +1,6 @@
 <!-- ================== TYPING ANIMATION HEADER ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=red&center=true&vCenter=true&width=750&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
 </p>
 
 <!-- ================== TERMINAL INTRO ================== -->
