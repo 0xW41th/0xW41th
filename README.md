@@ -1,6 +1,6 @@
 <!-- ================== TYPING ANIMATION HEADER ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=720&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
 </p>
 
 <!-- ================== TERMINAL INTRO ================== -->
@@ -18,12 +18,12 @@ Break systems • Understand deeply • Secure properly
 ---
 
 # 💀 0xW41th | Adwaith S
+<p align="center"><i>Offensive Security • CVE Research • Malware Analysis • CTF</i></p>
 
+<!-- ================== ANIMATED NEON DIVIDER ================== -->
 <p align="center">
-  <i>Offensive Security • CVE Research • Malware Analysis • CTF</i>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
-
----
 
 ## 👋 About Me 🧑‍💻
 
@@ -36,36 +36,35 @@ I actively work on:
 - 📱 Malware analysis (Android)
 - 🎯 CTF challenges & red-team labs
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## ⚔️ What I Do
 
-- 🛡️ Vulnerability research & exploitation  
-- 🌐 Web & network attacks  
-- 📱 Malware analysis  
-- 🎯 CTF problem solving (enum, privesc, exploitation)  
+- 🛡️ Vulnerability research & exploitation
+- 🌐 Web & network attacks
+- 🦠 Malware analysis
+- 🎯 CTF problem solving (enum, privesc, exploitation)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 📄 Featured Publications 📚
 
-### 🏆 CVE Research
-- **CVE-2025-65883 – Remote Code Execution in Genexis Router**  
+- 🏆 **CVE-2025-65883 – Remote Code Execution in Genexis Router**  
   🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd
 
-### ✍️ CTF Write-ups
-- Boot → Shell → Root (TryHackMe Lookup)  
-- Biohazard CTF Adventure  
-- OSINT CTF Walkthrough (Technocrat)
+- ✍️ **CTF Write-ups**
+  - Boot → Shell → Root (TryHackMe Lookup)
+  - Biohazard CTF Adventure
+  - OSINT CTF Walkthrough (Technocrat)
 
-👉 More writeups: https://0xw41th.medium.com/
+👉 All articles: https://0xw41th.medium.com/
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## 🌱 Currently Learning
@@ -75,7 +74,9 @@ I actively work on:
 - 🔴 Red team methodologies
 - 📡 Wireless & Bluetooth attacks
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 🤝 Open to Collaborate On
 
@@ -83,7 +84,9 @@ I actively work on:
 - 🧪 Vulnerability research
 - ⚔️ Red team labs & CTFs
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 💬 Ask Me About
 
@@ -94,10 +97,8 @@ I actively work on:
 
 ⚡ **Fun fact:** I enjoy breaking systems more than configuring them 😄
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## 🧰 Tech Stack 🛠️
@@ -117,16 +118,16 @@ I actively work on:
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 🛠️ Security Tools
 
 Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 </p>
 
 ## 🧬 Research Highlights 🔬
@@ -135,23 +136,26 @@ Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
   <img src="https://img.shields.io/badge/CVE-2025--65883-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
-- 🏆 **CVE-2025-65883 – RCE in Genexis Router**
+- 🏆 **CVE-2025-65883 – Remote Code Execution in Genexis Router**
   - Responsible disclosure
   - Root cause analysis
   - Real-world impact
-  - Public technical write-up on Medium
+  - Public Medium write-up
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 🌐 Connect With Me 🌍
-
 <p align="left">
   <a href="https://www.linkedin.com/in/adwaith-sec"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://0xw41th.medium.com/"><img src="https://skillicons.dev/icons?i=devto" /></a>
   <a href="https://tryhackme.com/p/0xW41th"><img src="https://skillicons.dev/icons?i=linux" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 📊 GitHub Stats 📈
 
@@ -164,7 +168,9 @@ Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xW41th&layout=compact&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
+</p>
 
 ## 👁️ Profile Views 👀
 <p align="center">
