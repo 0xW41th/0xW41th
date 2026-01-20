@@ -194,11 +194,6 @@ Burp Suite • Nmap • Wireshark • Metasploit • SQLmap • Nikto • ADB
   <svg width="100%" height="6"><rect width="100%" height="6" fill="#ff0000"/></svg>
 </p>
 
-## 👁️ Profile Views 👀
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=red" />
-</p>
-
 ---
 
 > ⚔️ *“The best defense begins with understanding the offense.”*
