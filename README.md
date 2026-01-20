@@ -146,8 +146,7 @@ My work includes **CVE discovery**, **published Medium writeups**, and **CTF lab
 
 ---
 
-## 📊 GitHub Stats 📈 (animated)
-
+## 📊 GitHub Stats 📈
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xW41th&show_icons=true&theme=radical" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=0xW41th&theme=radical" />
