@@ -10,7 +10,8 @@ Break • Understand • Exploit • Secure
 Hi, I'm **Adwaith (0xW41th)** 👋  
 **Offensive Security Researcher | CTF Player | Malware Analyst | IoT Firmware Researcher**
 
-I focus on real-world exploitation, deep analysis, and ethical disclosure. My work includes published vulnerabilities, hands-on CTF walkthroughs, and practical security research. :contentReference[oaicite:1]{index=1}
+I focus on real-world exploitation, deep analysis, and ethical disclosure.  
+My work includes published vulnerabilities, CTF walkthroughs, and practical security research.
 
 ---
 
@@ -22,9 +23,23 @@ I focus on real-world exploitation, deep analysis, and ethical disclosure. My wo
 - Android malware analysis  
 - CTF challenges (web, enumeration, privilege escalation)
 
-### 📄 Featured Publications
-- **My first CVE: CVE-2025-65883**, RCE in Genexis router (ethical disclosure & technical overview) :contentReference[oaicite:2]{index=2}  
-- **CTF write-ups**: Boot→Shell→Root, Biohazard CTF, OSINT CTF walkthroughs on Medium :contentReference[oaicite:3]{index=3}
+---
+
+## 📄 Featured Publications
+
+- 🏆 **My first CVE: CVE-2025-65883** – Remote Code Execution in Genexis router  
+  (ethical disclosure & technical overview)  
+  🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd
+
+- ✍️ **CTF Write-ups on Medium**
+  - Boot → Shell → Root (TryHackMe Lookup)  
+    https://0xw41th.medium.com/boot-shell-root-escalating-privileges-on-tryhackme-lookup-ba928921ed22
+  - Surviving the Nightmare: Biohazard CTF Adventure  
+    https://0xw41th.medium.com/surviving-the-nightmare-my-biohazard-ctf-adventure-e9e5d4ff13e2
+  - OSINT CTF Walkthrough: TryHackMe Technocrat  
+    https://0xw41th.medium.com/osint-ctf-walkthrough-tryhackme-technocrat-my-first-capture-a5c96b81dbf7
+
+---
 
 ### 🌱 Currently Learning
 - Advanced binary exploitation (stack, heap, ROP)  
@@ -77,14 +92,10 @@ I focus on real-world exploitation, deep analysis, and ethical disclosure. My wo
 ## 🧬 Research Highlights
 
 ### 🪲 CVE & Vulnerabilities
-- 🏆 **CVE-2025-65883** – Remote Code Execution in Genexis Platinum P4410 Router (ethical disclosure & root exploitation possibilities) :contentReference[oaicite:4]{index=4}
-
-### 📖 Published Security Walkthroughs (Medium)
-- Boot→Shell→Root: Privilege Escalation on TryHackMe Lookup CTF :contentReference[oaicite:5]{index=5}  
-- Surviving the Nightmare: Biohazard CTF Adventure :contentReference[oaicite:6]{index=6}  
-- OSINT CTF Walkthrough: TryHackMe Technocrat :contentReference[oaicite:7]{index=7}
-
-See more on **Medium** 🔗 below.
+- 🏆 **CVE-2025-65883** – Remote Code Execution in Genexis Platinum P4410 Router  
+  → Discovered, analyzed, and responsibly disclosed  
+  → Firmware reversing, root cause analysis, PoC development  
+  🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd
 
 ---
 
@@ -115,4 +126,3 @@ See more on **Medium** 🔗 below.
 
 ### ⭐ If you like my work  
 Star my repos & follow for more security research 🔥
-
