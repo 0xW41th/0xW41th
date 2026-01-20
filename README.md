@@ -64,8 +64,6 @@ I actively work on:
 
 👉 More writeups: https://0xw41th.medium.com/
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
