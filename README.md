@@ -8,7 +8,7 @@ Break • Understand • Exploit • Secure
 ## 👋 About Me
 
 Hi, I'm **Adwaith (0xW41th)** 👋  
-**Offensive Security Researcher | CTF Player | Malware Analyst | IoT Firmware Researcher**
+**Offensive Security Researcher | CTF Player | Malware Analyst | IoT Security Enthusiast**
 
 I focus on real-world exploitation, deep analysis, and ethical disclosure.  
 My work includes published vulnerabilities, CTF walkthroughs, and practical security research.
@@ -19,7 +19,7 @@ My work includes published vulnerabilities, CTF walkthroughs, and practical secu
 
 ### 🧪 Current Work
 - Real-world vulnerability research & CVE-class exploits  
-- IoT firmware analysis & router exploitation  
+- Web & network exploitation  
 - Android malware analysis  
 - CTF challenges (web, enumeration, privilege escalation)
 
@@ -43,7 +43,7 @@ My work includes published vulnerabilities, CTF walkthroughs, and practical secu
 
 ### 🌱 Currently Learning
 - Advanced binary exploitation (stack, heap, ROP)  
-- Kernel & driver reversing  
+- Advanced web exploitation  
 - Red team methodologies  
 - Wireless & Bluetooth attacks
 
@@ -54,11 +54,11 @@ My work includes published vulnerabilities, CTF walkthroughs, and practical secu
 
 ### 💬 Ask Me About
 - CTF strategies  
-- Malware reversing  
-- Router & firmware hacking  
+- Malware analysis  
+- Web exploitation  
 - Vulnerability discovery
 
-⚡ **Fun fact:** I enjoy breaking routers more than configuring them 😄
+⚡ **Fun fact:** I enjoy breaking systems more than configuring them 😄
 
 ---
 
@@ -78,23 +78,21 @@ My work includes published vulnerabilities, CTF walkthroughs, and practical secu
 
 ## 🛠️ Security Tools
 
-- **Burp Suite** – Web security testing  
-- **Nmap** – Network enumeration  
-- **Ghidra** – Binary & firmware reversing  
-- **x64dbg / GDB** – Debugging  
-- **Binwalk** – Firmware extraction  
-- **Wireshark** – Packet analysis  
-- **Metasploit** – Exploit testing  
-- **ADB** – Android analysis
+- Burp Suite  
+- Nmap  
+- Wireshark  
+- Metasploit  
+- ADB  
+- SQLmap  
+- Nikto  
 
 ---
 
 ## 🧬 Research Highlights
 
 ### 🪲 CVE & Vulnerabilities
-- 🏆 **CVE-2025-65883** – Remote Code Execution in Genexis Platinum P4410 Router  
+- 🏆 **CVE-2025-65883** – Remote Code Execution in Genexis Router  
   → Discovered, analyzed, and responsibly disclosed  
-  → Firmware reversing, root cause analysis, PoC development  
   🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd
 
 ---
@@ -112,11 +110,6 @@ My work includes published vulnerabilities, CTF walkthroughs, and practical secu
 ![Stats](https://github-readme-stats.vercel.app/api?username=0xW41th&show_icons=true&theme=radical)
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=0xW41th&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xW41th&layout=compact&theme=radical)
-
----
-
-## 👁️ Profile Views
-![Visitors](https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=cyan)
 
 ---
 
