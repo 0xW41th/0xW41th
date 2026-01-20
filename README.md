@@ -1,9 +1,9 @@
 <!-- ================== TYPING ANIMATION HEADER ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
 </p>
 
-<!-- ================== TERMINAL STYLE INTRO ================== -->
+<!-- ================== TERMINAL INTRO ================== -->
 ```bash
 $ whoami
 0xW41th
@@ -11,8 +11,8 @@ $ whoami
 $ role
 Offensive Security Researcher | Red Team | CTF Player
 
-$ status
-Breaking systems to make them secure
+$ mission
+Break systems • Understand deeply • Secure properly
 ```
 
 ---
@@ -26,8 +26,8 @@ Breaking systems to make them secure
 Hi, I'm **Adwaith (0xW41th)** 👋  
 **Offensive Security Researcher | CTF Player | Malware Analyst | IoT Security Enthusiast**
 
-I focus on **real-world exploitation, ethical disclosure, and security research**.  
-My work includes **CVE discovery**, **published writeups**, and **hands-on offensive security labs**.
+I focus on real-world exploitation, ethical disclosure, and hands-on security research.  
+My work includes **CVE discovery**, **published Medium writeups**, and **CTF labs**.
 
 ---
 
@@ -44,33 +44,19 @@ My work includes **CVE discovery**, **published writeups**, and **hands-on offen
 
 ---
 
-## 🧬 CVE & Research 🪲
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CVE-2025--65883-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
-
-- 🏆 **CVE-2025-65883 – Remote Code Execution in Genexis Router**  
-  🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd  
-  → Responsible disclosure  
-  → Root cause analysis  
-  → Real-world impact
-
----
-
 ## 📄 Featured Publications 📚
 
-- ✍️ **Boot → Shell → Root (TryHackMe Lookup)**  
-- ✍️ **Biohazard CTF Adventure**  
-- ✍️ **OSINT CTF Walkthrough (Technocrat)**  
+- 🏆 **CVE-2025-65883 – RCE in Genexis Router**  
+  🔗 https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd
 
-👉 All writeups: https://0xw41th.medium.com/
+- ✍️ **CTF Write-ups**
+  - Boot → Shell → Root (TryHackMe Lookup)
+  - Biohazard CTF Adventure
+  - OSINT CTF Walkthrough (Technocrat)
+
+👉 All articles: https://0xw41th.medium.com/
 
 ---
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
 
 ## 🌱 Currently Learning 📖
 - 🧬 Binary exploitation (stack, heap, ROP)
@@ -87,21 +73,13 @@ My work includes **CVE discovery**, **published writeups**, and **hands-on offen
 
 ---
 
-## 🧰 Tech Stack 🛠️
+## 💬 Ask Me About 💡
+- CTF strategies
+- Malware analysis
+- Web exploitation
+- Vulnerability discovery
 
-### 💻 Languages & Scripting (animated)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,javascript&perline=6" />
-</p>
-
-### 🛡️ Platforms & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github&perline=6" />
-</p>
-
-**Security tools:**
-- Burp Suite • Nmap • Wireshark • Metasploit  
-- SQLmap • Nikto • ADB
+⚡ **Fun fact:** I enjoy breaking systems more than configuring them 😄
 
 ---
 
@@ -109,7 +87,57 @@ My work includes **CVE discovery**, **published writeups**, and **hands-on offen
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
+## 🧰 Tech Stack 🛠️
+
+### 💻 Languages & Scripting (animated icons)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,bash,powershell,javascript&perline=6" />
+</p>
+
+### 📄 Writeups & Docs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=markdown" />
+</p>
+
+### 🛡️ Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+---
+
+## 🛠️ Security Tools
+
+- 🛡️ Burp Suite
+- 🔍 Nmap
+- 📡 Wireshark
+- 💥 Metasploit
+- 🧪 SQLmap
+- 🧱 Nikto
+- 🤖 ADB
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+</p>
+
+## 🧬 Research Highlights 🔬
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CVE-2025--65883-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+- 🏆 **CVE-2025-65883 – Remote Code Execution in Genexis Router**
+  - Responsible disclosure
+  - Root cause analysis
+  - Real-world impact
+  - Published write-up on Medium
+
+---
+
 ## 🌐 Connect With Me 🌍
+
 <p align="left">
   <a href="https://www.linkedin.com/in/adwaith-sec"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://0xw41th.medium.com/"><img src="https://skillicons.dev/icons?i=devto" /></a>
@@ -119,6 +147,7 @@ My work includes **CVE discovery**, **published writeups**, and **hands-on offen
 ---
 
 ## 📊 GitHub Stats 📈 (animated)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xW41th&show_icons=true&theme=radical" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=0xW41th&theme=radical" />
