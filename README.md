@@ -2,6 +2,9 @@
 ```text
 Break • Understand • Exploit • Secure
 ```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;CTF+Player+%7C+Malware+Analyst;Vulnerability+Research+%26+CVE+Hunter;Break+%E2%80%A2+Understand+%E2%80%A2+Exploit+%E2%80%A2+Secure" />
+</p>
 
 ---
 
