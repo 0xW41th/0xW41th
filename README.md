@@ -99,11 +99,6 @@ I focus on breaking real systems to understand them deeply and help secure them 
 
 ---
 
-## 👁️ Profile Views
-![Visitors](https://visitcount.itsvg.in/api?id=0xW41th&icon=eye&color=cyan)
-
----
-
 > ⚔️ *“The best defense begins with understanding the offense.”*
 
 ---
